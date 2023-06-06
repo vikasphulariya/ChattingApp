@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "372522958844",
+    "project_id": "wp-clone-2e296",
+    "storage_bucket": "wp-clone-2e296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372522958844:android:c2f3784703574a539a7c79",
+        "android_client_info": {
+          "package_name": "com.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372522958844-c3i116lg2ut9ohk0aibfadm1ildnbv9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9XoMxIVSkN1qlYB-VH1PFUgwDHzTnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372522958844-c3i116lg2ut9ohk0aibfadm1ildnbv9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372522958844:android:f5611ccfdc1c35f39a7c79",
+        "android_client_info": {
+          "package_name": "com.rnfirebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372522958844-c3i116lg2ut9ohk0aibfadm1ildnbv9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9XoMxIVSkN1qlYB-VH1PFUgwDHzTnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372522958844-c3i116lg2ut9ohk0aibfadm1ildnbv9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
